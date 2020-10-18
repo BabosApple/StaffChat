@@ -1,11 +1,11 @@
 # StaffChat Information
-Name: StaffChat
-Description: A PocketMine Plugin that allow Staff member talk privately
-API: 3.0.0
-version: 1.0
-Price: Free
-command: /sc
-permission: sc.use
+- Name: StaffChat
+- Description: A PocketMine Plugin that allow Staff member talk privately
+- API: 3.0.0
+- version: 1.0
+- Price: Free
+- command: /sc
+- permission: sc.use
 # Features
 - Toggle on/off the staffchat mode
 # Credits
