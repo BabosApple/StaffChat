@@ -1,0 +1,12 @@
+name: StaffChat
+main: BabosApple\StaffChat\Main
+api: 3.0.0
+version: 1.0
+
+commands:
+  staffchat:
+    description: "Use staffchat commands"
+    permission: "sc.use"
+  sc:
+    description: "Use staffchat commands"
+    permission: "sc.use"
